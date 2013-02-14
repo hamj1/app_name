@@ -1,4 +1,4 @@
 app_name
 ========
 
-Ruby on Rails First Application
+Ruby on Rails Tutorial first application
