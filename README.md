@@ -1,4 +1,4 @@
 app_name
 ========
 
-Ruby on Rails App_Name
+Ruby on Rails First Application
